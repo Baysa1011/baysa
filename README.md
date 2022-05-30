@@ -1,0 +1,2 @@
+# baysa
+Terminal termux
